@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Deal Timer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- -->
+    <string name="StartbtnTxt">Start</string>
+    <string name="PausebtnTxt">Pause</string>
+    <string name="ResetbtnTxt">Reset</string>
+    <string name="ResumebtnTxt">Resume</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-8699743792265187/3475691153</string>
+</resources>
